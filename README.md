@@ -2,7 +2,9 @@
 : read, write, lookup, raise_hand, turn_head, stand, and discuss. These categories essentially cover the typical behaviors observed in daily classroom activities. 
 The diverse distribution of these behaviors across different scenes enhances the dataset’s robustness and applicability in real-world scenarios.
 
-_We also provide the dataset in both YOLO and COCO formats for the convenience of other researchers._
+_We also provide the dataset in both **YOLO** and **COCO** formats for the convenience of other researchers._
+
+Here's some examples of our dataset:
 
 ![01](https://github.com/user-attachments/assets/76471b74-8723-4f98-bdad-b019ebfad0e8)
 
